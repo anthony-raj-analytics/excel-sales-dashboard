@@ -24,7 +24,8 @@ It enables analysis of sales by **category, gender, location, and discounts**, p
 - Discounted orders contribute **higher net revenue**  
 
 ## Dashboard Preview
-<img width="1896" height="935" alt="dashboard" src="https://github.com/user-attachments/assets/1e2fbd7f-7454-4cc9-b24e-ac20387d15d9" />
+<img width="1899" height="917" alt="dashboard" src="https://github.com/user-attachments/assets/19f0d25c-2b92-4f8a-b190-a22d9d22adee" />
+
 
 
 ## File Structure
