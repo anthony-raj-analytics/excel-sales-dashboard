@@ -1,36 +1,62 @@
-# Excel Sales Dashboard
+# 📊 Sales Performance Dashboard – Excel Project
 
-## Project Overview
-This project presents an **interactive Excel Sales Dashboard** built using **Pivot Tables, Slicers, and Pivot Charts**.  
-It enables analysis of sales by **category, gender, location, and discounts**, providing actionable business insights.
+## 📌 Overview
+This project is an interactive Sales Performance Dashboard built using Microsoft Excel.  
+The objective of this project is to analyze sales data and generate meaningful business insights 
+using Pivot Tables, Pivot Charts, and Slicers.
 
-## Tools Used
-- Microsoft Excel  
-- Pivot Tables  
-- Pivot Charts  
-- Slicers  
-- Conditional Formatting  
+The dashboard enables dynamic filtering and helps in understanding business performance 
+across different dimensions.
 
-## Key Features
-- **KPIs**: Total Sales, Average Sale, Total Transactions  
-- **Category-wise Analysis**: Compare sales across product categories  
-- **Location-wise Analysis**: Analyze sales by city  
-- **Gender Distribution**: Male vs Female customer sales  
-- **Discount Analysis**: Compare discounted vs non-discounted sales  
+---
 
-## Key Insights
-- Electronics category generates the **highest sales**  
-- Delhi and Bangalore are the **top-performing cities**  
-- Discounted orders contribute **higher net revenue**  
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
 
-## Dashboard Preview
-<img width="1899" height="917" alt="dashboard" src="https://github.com/user-attachments/assets/19f0d25c-2b92-4f8a-b190-a22d9d22adee" />
+---
+
+## 📊 Key Performance Indicators (KPIs)
+- Total Revenue
+- Average Order Value
+- Total Orders
+
+---
+
+## 📈 Analysis Performed
+- Revenue by Product Category
+- Revenue by Gender
+- Revenue by City
+- Yearly Revenue Trend
+- Sales by Return Status
+- Purchase Method Analysis
+
+---
+
+## 📊 Dashboard Preview
+
+<img width="1887" height="926" alt="dashbaord" src="https://github.com/user-attachments/assets/5cd676ae-e991-4476-b0f1-8108cc236953" />
 
 
+---
 
-## File Structure
-```text
-excel-sales-dashboard/
-├── Excel_Sales_Dashboard.xlsx
-├── dashboard_preview.png
-└── README.md
+## 🎯 Key Insights
+- Electronics category generated the highest revenue
+- Delhi recorded the highest sales
+- Majority of orders were non-returned
+- Revenue trends vary across different years
+
+---
+
+## 📂 Files Included
+- Sales_Performance_Dashboard.xlsx
+- Dashboard_Screenshot.png
+
+---
+
+## 👨‍💻 About Me
+Data Analyst skilled in Excel, data visualization, and business insight generation.  
+Focused on building analytical dashboards and transforming raw data into meaningful insights.
